@@ -1,6 +1,6 @@
 # Robotarm
-#OpenCV
+## OpenCV
 This project depends on OpenCV
 
-#Kuka Communicatie
+## Kuka Communicatie
 
